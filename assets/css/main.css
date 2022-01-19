@@ -86,7 +86,7 @@ nav ul {
 }
 
 .header {
-  background-image: url("./assets/img/post-image.jpg");
+  background-image: url("/assets/img/post-image.jpg");
   background-position: center;
   background-size: cover;
   color: #fff;
